@@ -1,0 +1,16 @@
+body{
+  background:black;
+  color:white;
+}
+header,section,footer{
+  background: #333;
+  margin-bottom: 20px;
+
+}
+footer>div.row>div{
+  background: green;
+  margin-bottom: 20px;
+}
+aside{
+  background: yellow;
+}
